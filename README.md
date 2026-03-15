@@ -10,7 +10,3 @@ Creates a text file containing all user installed (Native, Flatpak and Snap) pac
 **backup_script.sh**  
 Creates a backup of an user home folder. must manually alter *user* in the **SRC** variable to the user profile name
 
-**API Status Checker**  
-Allows for quick checking an API availability 
-
-
