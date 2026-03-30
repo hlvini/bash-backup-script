@@ -1,6 +1,6 @@
-# Vini's Script Stash
+# quick-packup
 
-A series of scripts that seek to automate repetitive, time consuming or otherwise simple tasks. That one may find the scripts here useful.
+Command Line tool for quickly backing up user files and data
 
 ## Contents
 
